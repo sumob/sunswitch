@@ -28,9 +28,5 @@ while (1)
 	system("tdtool --on 1");
 	$is_off = 0;
     }
-    else
-    {
-	print "Nothing to do\n";
-    }
     sleep 300;
 }
